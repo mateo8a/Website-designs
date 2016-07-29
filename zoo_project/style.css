@@ -1,0 +1,95 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+  max-width: 940px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+/*Header*/
+
+.header {
+  background-color: #4080bf;
+}
+
+.header .list-inline {
+  margin: 0;
+}
+
+.header .list-inline li {
+  padding: 20px 15px;
+  margin: 0;
+}
+
+.header .list-inline a {
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+
+/*Jumbotron*/
+
+.jumbotron {
+  background-image: url(https://img.rt.com/files/2015.11/original/565c7b62c46188d51b8b45ac.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: #ff3399;
+  height: 400px;
+}
+
+.jumbotron h2 {
+  text-align: center;
+  font-size: 40px;
+  margin-top: 270px;
+}
+
+/*Supporting*/
+
+.supporting {
+  text-align: center;
+}
+
+.supporting p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.supporting .btn {
+  border: 1px solid #204060;
+  border-radius: 2px;
+  padding: 10px 60px;
+}
+
+/*footer*/
+
+.footer {
+  background-color: #e52364;
+  margin-top: 100px;
+  padding: 30px 0;
+  color: white;
+}
+
+.footer ul {
+  margin: 0;
+}
+
+.footer a {
+  color: white;
+}
+
+.footer p {
+  padding-top: 10px;
+}
+
+@media (max-width: 500px) {
+  
+  .header .list-inline li {
+  padding: 20px 10px;
+  margin: 0;
+  }
+
+}
