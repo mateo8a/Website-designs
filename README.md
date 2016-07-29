@@ -1,4 +1,4 @@
-#Static websites designs
+#Website designs
 
 Here are some samples of the websites I've created. Designing aesthetically pleasing websites is fun, and that is what I aim for with these projects. They are also a good way for me to explore the design options HTML/CSS/JavaScript offer. 
 
